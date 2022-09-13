@@ -1,2 +1,2 @@
-# Gera-o-Tech-Unimed-BH---Ci-ncia-de-Dados
+# Geracao-Tech-Unimed-BH---Ciencia-de-Dados
 Projetos feitos no Bootcamp Geracao Tech Unimed-BH - Ciencia de Dados
