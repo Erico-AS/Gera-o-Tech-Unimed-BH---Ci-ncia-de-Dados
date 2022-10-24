@@ -1,2 +1,3 @@
-# Geracao-Tech-Unimed-BH---Ciencia-de-Dados
-Projetos feitos no Bootcamp Geracao Tech Unimed-BH - Ciencia de Dados
+# Python
+Conhecimentos práticos de python.
+Visualize as outras branches!
