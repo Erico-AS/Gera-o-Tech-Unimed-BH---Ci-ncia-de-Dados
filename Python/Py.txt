@@ -1,0 +1,31 @@
+Verificar se instalou corretamente
+
+CMD>
+
+digitar python e verificar
+
+---------------------------------------------------------------
+
+Rodar o Python no win
+
+CMD >
+
+digitar CD + localSalvo' (entrar na pasta)
+
+Depois digitar python 'nomeDoArquivo.py'
+
+
+
+Rodar Python no Sublime Text
+
+ctrl + b
+
+-----------------------------------------------------------------
+
+
+Para aceitar acentos: # -*- coding> utf-8 -*-
+
+
+
+Operações: + - * /
+Elevado (exponenciação): ** então 2 ** 3 = 8
